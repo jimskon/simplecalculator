@@ -1,6 +1,6 @@
 // Use insert() function to insert the number in textview.  
 function insert(num) {  
-  documentdocument.form1.textview.value = document.form1.textview.value + num;  
+  document.form1.textview.value = document.form1.textview.value + num;  
 }  
   
 // Use equal() function to return the result based on passed values.  
